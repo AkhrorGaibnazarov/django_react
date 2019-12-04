@@ -30,7 +30,7 @@ export class Form extends Component {
           <div className="form-group">
             <label>Name</label>
             <input
-              className="fom-control"
+              className="form-control"
               type="text"
               name="name"
               onChange={this.onChange}
